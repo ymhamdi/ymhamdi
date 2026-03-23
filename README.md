@@ -9,7 +9,7 @@
 
 ## 🛠️ Tech Stack
 
-### **Machine Learning**
+### **Machine Learning & Data Science**
 <br />
 <p align="center"> 
 <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="70"/></a>    
@@ -19,6 +19,14 @@
 <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="70"/></a>    
 </p>
 
+### **AI (Computer Vision & Anomaly Detection)**
+<br />
+<p align="center"> 
+<a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="70"/></a>    
+<a href="https://www.tensorflow.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="70"/></a>    
+<a href="https://www.ultralytics.com/" target="_blank"><img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_2e1d25e4ac8ebd8d5bb1cf26e508446c/ultralytics.png" alt="YOLOv8" width="70"/></a>    
+<a href="https://huggingface.co/" target="_blank"><img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" alt="huggingface" width="70"/></a>
+</p>
 
 ### **Backend & Systems Engineering**
 <br />
@@ -50,15 +58,15 @@
 
 ## 📈 Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=github.com/YoussefMhamdi&layout=compact&theme=dark&hide_border=true&title_color=7AF79A" alt="Top Languages" width="45%"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=github.com/YoussefMhamdi&show_icons=true&theme=dark&hide_border=true&title_color=7AF79A&icon_color=7AF79A&layout=compact" alt="GitHub Stats" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ymhamdi&layout=compact&theme=dark&hide_border=true&title_color=7AF79A" alt="Top Languages" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ymhamdi&show_icons=true&theme=dark&hide_border=true&title_color=7AF79A&icon_color=7AF79A&layout=compact" alt="GitHub Stats" width="45%"/>
 </p>
 
 ---
 
 ## 🤝 Connect with Me
 <p align="center"> 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_PROFILE" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="70" height="70"/></a> 
+<a href="https://www.linkedin.com/in/youssef-mhamdi-04b4b1326/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="70" height="70"/></a> 
 </p>
 
 ### My Resume: 
@@ -79,9 +87,9 @@
 <p align="center">
   Feel free to reach out for collaboration, feedback, or just a tech chat!<br>
   <a href="mailto:youssef.elmhamdi@insat.ucar.tn"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/issues"><img src="https://img.shields.io/badge/GitHub_Issues-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Issues"></a>
+  <a href="https://github.com/ymhamdi/ymhamdi/issues"><img src="https://img.shields.io/badge/GitHub_Issues-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Issues"></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=7AF79A&style=flat-square" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=ymhamdi&color=7AF79A&style=flat-square" alt="Profile Views">
 </p>
