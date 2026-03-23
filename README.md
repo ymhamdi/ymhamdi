@@ -9,7 +9,7 @@
 
 ## 🛠️ Tech Stack
 
-### **Machine Learning & Data Science**
+### **Machine Learning **
 <br />
 <p align="center"> 
 <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="70"/></a>    
@@ -78,8 +78,8 @@
 
 **<img alt="Feedback" src="https://img.shields.io/badge/Ask%20Me-Anything-7AF79A?style=flat-square&logo=github&logoColor=black">**
 
-> “I view technology as a nervous system: utilizing Machine Learning to monitor health, anticipate bottlenecks, and automate responses within high-stakes environments.”  
-> – **Youssef Mhamdi**
+> “"Intellectual growth should commence at birth and cease only at death."”  
+> – **Albert Einstein**
 
 ---
 
