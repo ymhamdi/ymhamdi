@@ -1,0 +1,37 @@
+# Rebuilds the 3D contribution calendar every night from your real GitHub activity.
+# Place at: .github/workflows/profile-3d.yml in the ymhamdi/ymhamdi repo.
+name: GitHub-Profile-3D-Contrib
+
+on:
+  schedule: # 02:17 UTC == 03:17 Tunis
+    - cron: "17 2 * * *"
+  workflow_dispatch:
+  push: # also runs once right after you commit this file
+    branches: [main]
+    paths: [".github/workflows/profile-3d.yml"]
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-3d-contrib
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: yoshi389111/github-profile-3d-contrib@latest
+        env:
+          # Uses the PROFILE_PAT secret if you add one (counts more private-repo
+          # detail such as languages); otherwise falls back to the default token.
+          GITHUB_TOKEN: ${{ secrets.PROFILE_PAT || secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
+      - name: Commit & Push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A .
+          if git commit -m "chore: regenerate 3D contribution graph"; then
+            git push
+          fi
