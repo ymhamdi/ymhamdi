@@ -111,7 +111,7 @@ youssef   FORGE   > production-grade multi-agent AI system           [compiling]
 </p>
 
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=ymhamdi&color=7AF79A&style=flat-square&label=visitors" alt="Profile views" />
+  <img src="https://hits.sh/github.com/ymhamdi.svg?style=flat-square&label=visitors&color=7AF79A&labelColor=0D1117" alt="Profile views" />
   <br />
   <sub>graphs above are rebuilt every night by GitHub Actions from my real activity</sub>
 </p>
